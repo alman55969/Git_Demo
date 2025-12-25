@@ -5,5 +5,5 @@ int main(){
     
     cout<<"Hello github!";
 
-    return 0
+    return 0;
 }
